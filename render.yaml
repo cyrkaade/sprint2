@@ -3,7 +3,7 @@ services:
     name: fastapi
     runtime: docker
     plan: free
-    repo: https://github.com/cyrkaade/sprint1.git
+    repo: https://github.com/cyrkaade/sprint2.git
     region: frankfurt
     branch: main
     envVars:
